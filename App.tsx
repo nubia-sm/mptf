@@ -291,7 +291,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.topBar}>
-        <Text style={styles.logo}>LIT.</Text>
+        <Text style={styles.logo}></Text>
         <Text style={styles.topBarText}>MI PORTAFOLIO</Text>
       </View>
 
